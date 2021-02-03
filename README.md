@@ -1,5 +1,5 @@
 ## Hi there 👋, I am Ankith
-![Ankith's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkithAbhayan&theme=merko&include_all_commits=true&line_height=50)
+![Ankith's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkithAbhayan&theme=merko&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkithAbhayan&card_width=325)  
     
 ![Profile Views](https://api.ghprofile.me/view?username=AnkithAbhayan&label=profile_views)  

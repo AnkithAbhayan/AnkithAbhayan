@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Ankith  
 - Alright my name is Ankith.  
-- I'm currently a student from India  
+- I'm currently a student. 
 - Python is the only language I know and like  
 - I use vim and vscode as my editors  
 - Git and Github is nice  

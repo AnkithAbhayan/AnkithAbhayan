@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Ankith  
 - Alright my name is Ankith.  
-- I'm currently a 15 year old studying in 10th grade. 
+- I'm currently 15.
 - Python is the only language I like (~~its also the only language I work with~~)  
 - I use sublime and vscode as my editors    
 - If anyone has access to gpt-3 source code, send it to me lol  

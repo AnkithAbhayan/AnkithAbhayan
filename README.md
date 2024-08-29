@@ -5,5 +5,5 @@
 - [MotionDetection](https://github.com/AnkithAbhayan/MotionDetection)
 ## Contact me      
 - Send an email to `ankithabhayan@gmail.com`.  
-![Profile Views](https://api.ghprofile.me/view?username=AnkithAbhayan&label=profile_views)  
+![](https://hit.yhype.me/github/profile?user_id=69845955)
 to check out my (static) website click [here](https://AnkithAbhayan.github.io)    

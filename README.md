@@ -1,5 +1,11 @@
 ## Hello there 👋, I am Ankith   
-<img src="https://github-readme-stats.vercel.app/api?username=AnkithAbhayan&theme=merko&include_all_commits=true"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkithAbhayan&card_width=325"/>  
+![Ankith's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkithAbhayan&theme=dracula&show_icons=true&include_all_commits=true)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkithAbhayan&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AnkithAbhayan&theme=dracula)](https://git.io/streak-stats) 
 
 ## My latest project
 - [VideoBrowser](https://github.com/AnkithAbhayan/VideoBrowser)
